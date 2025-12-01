@@ -15,22 +15,21 @@ O processo de preparação do texto envolve a remoção de elementos indesejados
 Após essas etapas, os dados serão organizados para que diferentes métricas possam ser geradas. Entre essas métricas estão as médias das notas dadas pelos usuários, a proporção de sentimentos em cada cidade e a frequência com que cada categoria de problema é mencionada. Esses resultados permitirão identificar padrões e diferenças entre São Paulo, Belo Horizonte e Rio de Janeiro, considerando tanto os aspectos subjetivos relatados pelos usuários quanto indicadores objetivos extraídos dos metadados.
 
 ## Fluxograma
-Fluxograma 
-1. Coleta da população
-   ↓
-2. Seleção dos sujeitos
-   ↓
-3. Mineração das avaliações (Play Store)
-   ↓
-4. Limpeza e pré-processamento
-   ↓
-5. Classificação dos textos (sentimento / tópicos)
-   ↓
-6. Codificação das métricas
-   ↓
-7. Análise estatística e comparativa
-   ↓
-8. Interpretação dos resultados
-   ↓
-9. Conclusões sobre usabilidade
 
+1. Coleta da população
+↓
+2. Seleção dos sujeitos
+↓
+3. Mineração das avaliações (Play Store)
+↓
+4. Limpeza e pré-processamento
+↓
+5. Classificação dos textos (sentimento / tópicos)
+↓
+6. Codificação das métricas
+↓
+7. Análise estatística e comparativa
+↓
+8. Interpretação dos resultados
+↓
+9. Conclusões sobre usabilidade
