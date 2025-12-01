@@ -14,17 +14,23 @@ O processo de preparação do texto envolve a remoção de elementos indesejados
 
 Após essas etapas, os dados serão organizados para que diferentes métricas possam ser geradas. Entre essas métricas estão as médias das notas dadas pelos usuários, a proporção de sentimentos em cada cidade e a frequência com que cada categoria de problema é mencionada. Esses resultados permitirão identificar padrões e diferenças entre São Paulo, Belo Horizonte e Rio de Janeiro, considerando tanto os aspectos subjetivos relatados pelos usuários quanto indicadores objetivos extraídos dos metadados.
 
-## Fluxograma do processo 
+## Fluxograma
+Fluxograma 
+1. Coleta da população
+   ↓
+2. Seleção dos sujeitos
+   ↓
+3. Mineração das avaliações (Play Store)
+   ↓
+4. Limpeza e pré-processamento
+   ↓
+5. Classificação dos textos (sentimento / tópicos)
+   ↓
+6. Codificação das métricas
+   ↓
+7. Análise estatística e comparativa
+   ↓
+8. Interpretação dos resultados
+   ↓
+9. Conclusões sobre usabilidade
 
-```mermaid
-flowchart TD
-
-A[Definição do Escopo<br>(Apps e Cidades)] --> B[Mineração de Dados<br>Scraper Google Play]
-B --> C[Armazenamento dos Dados<br>(CSV/JSON)]
-C --> D[Limpeza e Pré-processamento<br>(Stopwords, Lematização)]
-D --> E[Análise de Sentimento<br>(Modelo NLP)]
-E --> F[Classificação Temática<br>(Categorias de Usabilidade)]
-F --> G[Geração de Métricas<br>(Médias, Frequências, Tendências)]
-G --> H[Comparação Entre Cidades<br>(SP, BH, RJ)]
-H --> I[Interpretação dos Resultados<br>à luz da literatura UX]
-I --> J[Preparação do Relatório Final]
