@@ -6,7 +6,7 @@
 **Descrição:**  
 Os dados são provenientes exclusivamente de avaliações públicas da Google Play Store. Usuários que publicam avaliações online podem constituir um subgrupo não representativo da população total de usuários, tendendo a ser aqueles com experiências extremamente positivas ou negativas.
 
-**Categoria:** Viés de seleção/amostragem.
+
 
 **Estratégias de Mitigação:**
 - **Transparência Analítica:** Reconhecer explicitamente esta limitação nas conclusões do estudo, qualificando os resultados como representativos da "população de avaliadores", não de todos os usuários.  
