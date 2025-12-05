@@ -1,7 +1,7 @@
 ## 5.1 Ameaças à Validade Interna
 
 
-### A5.1.1 Viés de Seleção da Fonte de Dados (Ameaça de Amostragem)
+### A5.1.1 Viés de Seleção da Fonte de Dados 
 
 **Descrição:**  
 Os dados são provenientes exclusivamente de avaliações públicas da Google Play Store. Usuários que publicam avaliações online podem constituir um subgrupo não representativo da população total de usuários, tendendo a ser aqueles com experiências extremamente positivas ou negativas.
