@@ -1,6 +1,6 @@
 ## Titulo
 Avaliação Comparativa de Usabilidade de Aplicativos de Transporte Públicos nas cidades de Belo Horizonte, Rio de Janeiro e São Paulo
-## Escopo ()
+## Escopo 
 
 Analisar os aplicativos de transporte público (Moovit, Cittamobi e BHBus+)  
 com o propósito de comparar a usabilidade percebida pelos usuários  
