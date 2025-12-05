@@ -15,7 +15,7 @@ Os dados são provenientes exclusivamente de avaliações públicas da Google Pl
 ---
 
 
-### A5.1.3 Instrumentação (Variação no Processo de Medida)
+### A5.1.3 Instrumentação 
 
 **Descrição:**  
 Alterações no algoritmo de análise de sentimento (PLN) ou nos critérios de categorização temática durante o processamento dos dados podem introduzir variação não atribuível aos aplicativos ou cidades.
