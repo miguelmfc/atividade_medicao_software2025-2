@@ -1,6 +1,5 @@
 ## 5.1 Ameaças à Validade Interna
 
-Ameaças à validade interna referem-se a fatores que podem comprometer a atribuição causal ou a interpretação de diferenças observadas entre os grupos comparados.
 
 ### A5.1.1 Viés de Seleção da Fonte de Dados (Ameaça de Amostragem)
 
