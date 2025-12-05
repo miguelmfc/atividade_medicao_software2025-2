@@ -14,19 +14,6 @@ Os dados são provenientes exclusivamente de avaliações públicas da Google Pl
 
 ---
 
-### A5.1.2 História e Maturidade (Ameaças Temporais)
-
-**Descrição:**  
-Mudanças nos aplicativos (atualizações de versão, correções de bugs) ou no contexto do sistema de transporte das cidades (mudanças de linhas, greves) durante o período de coleta podem afetar as avaliações, confundindo comparações entre períodos ou grupos.
-
-**Categoria:** Confundimento temporal.
-
-**Estratégias de Mitigação:**
-- **Controle por Versão:** Incluir a versão do aplicativo como metadado na coleta e realizar análises segmentadas para períodos de versões estáveis.  
-- **Registro de Eventos Externos:** Documentar eventos conhecidos (grandes atualizações, mudanças significativas no transporte público) que possam ter impactado as percepções dos usuários.  
-- **Análise de Sazonalidade:** Verificar a distribuição das avaliações ao longo do tempo para identificar tendências ou pontos de inflexão não aleatórios.
-
----
 
 ### A5.1.3 Instrumentação (Variação no Processo de Medida)
 
