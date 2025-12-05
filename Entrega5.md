@@ -10,8 +10,7 @@ Os dados são provenientes exclusivamente de avaliações públicas da Google Pl
 
 **Estratégias de Mitigação:**
 - **Transparência Analítica:** Reconhecer explicitamente esta limitação nas conclusões do estudo, qualificando os resultados como representativos da "população de avaliadores", não de todos os usuários.  
-- **Análise de Padrões de Envolvimento:** Investigar, dentro dos metadados disponíveis, se há padrões que indiquem vieses sistemáticos (ex.: picos de avaliações negativas após atualizações).  
-- **Contextualização com Literatura:** Comparar os perfis de sentimento e tópicos encontrados com estudos que utilizaram outros métodos (como surveys) para identificar possíveis desvios.
+
 
 ---
 
